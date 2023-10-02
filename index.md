@@ -8,3 +8,6 @@ i've added an H1 header,followed by an H3 header for the content
 print("hello world")
 ```
 
+- [ ] Turn on your Laptop
+- [ ] Open Discord
+- [ ] Complete Mulearn Tasks
